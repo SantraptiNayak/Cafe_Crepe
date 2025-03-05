@@ -38,7 +38,7 @@ Order Checkout Process:
 -	Login Page: Users enter their User ID & Password
 -	Signup Page: Users provide Email ID, Password, User ID, Name
 
-$🛠️ Admin Panel
+# 🛠️ Admin Panel
 -	Admin login is restricted to hotel management
 Admin Dashboard Includes:
 -	View & update room status (Booked/Free)
