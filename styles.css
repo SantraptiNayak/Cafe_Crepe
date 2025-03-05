@@ -1,0 +1,101 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+/* Slideshow */
+.slideshow-container {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.slide {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.slide-img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.slide-text {
+    position: absolute;
+    bottom: 50px;
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 15px 0;
+}
+
+/* Animation */
+.fade {
+    animation: fadeEffect 1.5s ease-in-out;
+}
+
+@keyframes fadeEffect {
+    from { opacity: 0.4; }
+    to { opacity: 1; }
+}
+
+/* Content Container */
+.container {
+    display: block;  /* Ensures only one box per row */
+    max-width: 120000px; /* Optional: Adjust width to limit content area */
+    margin: 50px auto;
+}
+
+
+/* Description Box */
+.description {
+    background: white;
+    padding: 20px;
+    text-align: justify; /* Align text to the left */
+    width: 100%; /* Ensure full width within container */
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.description h2 {
+    color: #333;
+}
+
+
+/* Footer */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Social Media Icons */
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 20px;
+    margin: 0 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.social-icons a:hover {
+    color: #ff9800;
+}

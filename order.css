@@ -1,0 +1,141 @@
+/* Background Gradient with a Golden Glow */
+body {
+    background: linear-gradient(to right, #c69c6d, #f4e2d8);
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main Container with a Light Gold Base */
+.container {
+    background: #fff8e1; /* Light Gold */
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    margin-top: 50px;
+    max-width: 90%;
+}
+
+/* Main Heading with a Shiny Gold Effect */
+.abc {
+    font-size: 3rem; /* Large Font Size */
+    font-weight: bold; /* Bold Text */
+    text-align: center;
+    color: #b8860b; /* Rich Golden Color */
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-shadow: 4px 4px 6px rgba(218, 165, 32, 0.5); /* Golden Glow */
+    border-bottom: 5px solid #d4af37; /* Darker Gold Underline */
+    display: inline-block;
+    background: linear-gradient(45deg, #fff4c2, #ffdd77); /* Shiny Gold Gradient */
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin-left: 460px;
+}
+
+/* Subheadings */
+h2 {
+    color: #b8860b;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Accordion Buttons with a Golden Look */
+.accordion-button {
+    background: #b8860b !important; /* Golden */
+    color: white !important;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.accordion-button:hover {
+    background: #d4af37 !important; /* Lighter Gold */
+}
+
+/* Food Card Styling */
+.food-card {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background: #fffbe6; /* Light Cream */
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    margin-bottom: 20px;
+}
+
+.food-card:hover {
+    transform: scale(1.05);
+}
+
+/* Food Image */
+.food-img {
+    width: 80%;
+    height: 180px;
+    border-radius: 10px;
+    object-fit: cover;
+    border: 3px solid #d4af37; /* Golden Border */
+}
+
+/* Buttons with Elegant Colors */
+.btn-success {
+    background: #daa520 !important; /* Golden Yellow */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.btn-danger {
+    background: #8b0000 !important; /* Deep Red */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.btn-success:hover, .btn-danger:hover {
+    opacity: 0.8;
+}
+
+/* Info Button with a Royal Feel */
+.btn-info {
+    background: #8b4513 !important; /* Chocolate Brown */
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    border-radius: 8px;
+    transition: 0.3s;
+    color: white;
+    margin: 200px 10px 30px 1000px;
+}
+
+.btn-info:hover {
+    background: #b8860b !important; /* Gold */
+}
+
+/* Card Design with Gold Edges */
+.card {
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(218, 165, 32, 0.3); /* Soft Gold Glow */
+    border: 2px solid #b8860b; /* Golden Border */
+}
+
+/* Cart Item Styling */
+#cart-items li {
+    font-size: 16px;
+    padding: 5px 0;
+    color: #8b4513; /* Rich Brown */
+}
+
+/* Total Amount Styling */
+#totalAmount {
+    font-size: 20px;
+    font-weight: bold;
+    color: #b8860b;
+    text-align: center;
+}
