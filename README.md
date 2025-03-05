@@ -38,7 +38,7 @@ Order Checkout Process:
 -	Login Page: Users enter their User ID & Password
 -	Signup Page: Users provide Email ID, Password, User ID, Name
 
-🛠️ Admin Panel
+$🛠️ Admin Panel
 -	Admin login is restricted to hotel management
 Admin Dashboard Includes:
 -	View & update room status (Booked/Free)
@@ -53,10 +53,10 @@ Admin Dashboard Includes:
 -	King Bed: 5 (203, 204, 205, 206, 207)
 
 # 🚀 Technology Stack
-# -	Frontend: HTML, CSS, JavaScript
-# -	Backend: PHP
-# -	Database: MySQL (phpMyAdmin)
-# -	 Server: XAMPP
+-	Frontend: HTML, CSS, JavaScript
+-	Backend: PHP
+-	Database: MySQL (phpMyAdmin)
+-	 Server: XAMPP
 
 
 # 📌 Installation Guide
