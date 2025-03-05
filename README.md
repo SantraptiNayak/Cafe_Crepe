@@ -6,8 +6,8 @@ A fully functional Hotel Management System built using PHP, MySQL, XAMPP, HTML, 
 # Features
 
 # 🏠 Homepage
-•	Navigation bar with links: Home, Book Now, Order Food, Signup/Login
-•	Slideshow of images
+- Navigation bar with links: Home, Book Now, Order Food, Signup/Login
+- Slideshow of images
 •	Information containers for hotel details
 •	Footer at the bottom
 
