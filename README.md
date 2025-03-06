@@ -74,7 +74,6 @@ Admin Dashboard Includes:
 - Ensure XAMPP is running before accessing the site
 -	Replace images in the project as needed
 -	Update admin email credentials if required
--	Contact me via email for SQL file & support
 
 # 📧 Contact
 Developed by: [Santrapti Nayak]
