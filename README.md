@@ -3,6 +3,14 @@
 Hotel Management System
 A fully functional Hotel Management System built using PHP, MySQL, XAMPP, HTML, CSS, and JavaScript. This project provides an efficient way to manage hotel room bookings, food orders, user authentication, and an admin panel for hotel management.
 
+# 🎥Demo
+
+
+
+https://github.com/user-attachments/assets/be4c57e2-01f7-4798-8a52-de0cb3820f5d
+
+
+
 # Features
 
 # 🏠 Homepage
@@ -79,7 +87,5 @@ Admin Dashboard Includes:
 # 📧 Contact
 Developed by: [Santrapti Nayak]
 Email: santraptinayak@gmail.com
-
-# 🎥Demo
 
 
